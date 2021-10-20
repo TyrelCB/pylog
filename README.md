@@ -1,0 +1,2 @@
+# pylog
+Python Syslog
