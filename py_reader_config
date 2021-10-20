@@ -1,0 +1,6 @@
+# py_reader_config
+{
+  'mail_server' : 'mail.ncl.com',
+  'from_address' : 'python-syslog@ncl.com',
+  'to_address' : 'tbarstow@nclcorp.com',
+}

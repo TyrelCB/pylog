@@ -1,0 +1,10 @@
+# syntax
+# 'Alert Name' : 'Alert Match Criteria'
+{
+    'Configuration Alert' : 'Configured from console',
+    'Reload Alert' : 'Reload',
+    'BGP Alert': 'BGP',
+    'VSS Alert': 'VSS',
+    'VPC Alert': 'VPC',
+    'IPSLA Alert': 'IPSLA',
+}
